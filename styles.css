@@ -1,0 +1,40 @@
+h1
+{
+    font-style: normal;
+    font-family: "Trirong", serif;
+    text-align: center;
+}
+
+p
+{
+    font-style: normal;
+    font-family: "Trirong", serif;
+}
+
+body
+{
+    background-image: url('bg.jpg');
+}
+
+div
+{
+    height: 510px;
+    width: 510px;
+    background-color: rgba(255, 255, 255, 0.788);
+    margin: 0 auto 0 auto;
+    margin-top: 85px;
+    text-align: center;
+    font-style: normal;
+    font-family: "Trirong", serif;
+}
+
+button
+{
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 30%;
+}
